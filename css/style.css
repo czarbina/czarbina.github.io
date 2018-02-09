@@ -80,8 +80,8 @@ background: #000;
 }
 .logo {
   position: relative;
-  bottom: 70px;
-  left: 42%;
+  bottom: 68px;
+  left: 41%;
   width: 11%;
 }
 .nav {
@@ -792,7 +792,7 @@ input[type="submit"]:hover {
 	}
 	.logo {
 	  position: relative;
-	  bottom: 80px;
+	  bottom: 72px;
 	  left: 38%;
 	  width: 11%;
 	}
@@ -1077,8 +1077,8 @@ input[type="submit"]:hover {
 	}
 	.logo {
 	  bottom: -64px;
-	  left: 38%;
-	  width: 17%;
+	  left: 31%;
+	  width: 35%;
 	}
 	div#banner-top {
 	  padding-top: 9em;
