@@ -76,7 +76,7 @@ background: #000;
   border-top: 3px solid #000;
   position: relative;
   border-bottom: 3px solid#000;
-  height: 110px;
+  height: 100px;
 }
 .logo {
   position: relative;
@@ -101,7 +101,7 @@ ul.nav li {
   display: block;
   padding: 0px;
   color: #000;
-  font-size: 1.5em;
+  font-size: 1.4em;
   margin: 0 60px;
   font-weight: 400;
 }
@@ -499,7 +499,7 @@ div#portfoliolist {
   color: #000;
 }
 .about p {
-  font-size: 1.8em;
+  font-size: 1.3em;
 }
 .about h3 span.left-icon {
   background: url(../images/left.png) no-repeat 0px 10px;
@@ -521,7 +521,7 @@ div#portfoliolist {
 .about-right p {
   padding: 10px 0;
   line-height: 1.8em;
-  font-size: 1.8em;
+  font-size: 1.3em;
 }
 .about-info {
   margin: 6em 0;
@@ -841,7 +841,7 @@ input[type="submit"]:hover {
 	}
 	.about-right {
 	  width: 100%;
-	  font-size: 1.8em;
+	  font-size: 0.875em;
 	    padding: 0;
 	}
 	.about-icons {
@@ -1077,8 +1077,8 @@ input[type="submit"]:hover {
 	}
 	.logo {
 	  bottom: -64px;
-	  left: 31%;
-	  width: 35%;
+	  left: 38%;
+	  width: 17%;
 	}
 	div#banner-top {
 	  padding-top: 9em;
