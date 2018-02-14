@@ -8,7 +8,7 @@ body{
 	margin:0;
 	padding:0;
 	font-family: 'Vollkorn', serif;
-	background:url(../images/904B1C53-1F04-4463-8C52-EFDB791FCA37.PNG) no-repeat;
+	background:url(../images/banner_green_low_sat_2.jpg) no-repeat;
 	background-size:100% 100%;
  }
 body a{
@@ -64,10 +64,12 @@ background: #000;
   height: 15px;
 }
 .label-7 {
+  margin-top: 5px;
   border-top: 3px solid #000;
-   height: 6px;
+  height: 6px;
 }
 .label-8 {
+  margin-top: 5px;
   border-top: 1px solid #000;
   height: 15px;
 }
@@ -987,6 +989,12 @@ input[type="submit"]:hover {
 	}
 }
 @media (max-width: 480px){
+
+	.iconz {
+		width: 40px;
+		display: inline-block;
+		margin: 5px;
+	}
 	span.menu:before {
 		content: url(../images/nav-icon.png);
 		cursor: pointer;	
@@ -1053,7 +1061,7 @@ input[type="submit"]:hover {
 	    padding-top: 6.5em;
 	}
 	div#banner-top h1 span.left-icon {
-	width: 125px;
+	width: 100px;
 	  background-size: 99px;
 	  height: 26px;
 	}
@@ -1061,9 +1069,9 @@ input[type="submit"]:hover {
 	  font-size: 1.3em;
 	}
 	div#banner-top h1 span.right-icon {
-	  width: 120px;
-	  background-size: 102px;
-	    height: 30px;
+	  width: 100px;
+	  background-size: 99px;
+	  height: 26px;
 	}
 	div#banner-top h2 span.left-icon {
  		 display: none;
@@ -1077,7 +1085,7 @@ input[type="submit"]:hover {
 	}
 	.logo {
 	  bottom: -64px;
-	  left: 38%;
+	  left: 30%;
 	  width: 17%;
 	}
 	div#banner-top {
@@ -1231,6 +1239,7 @@ input[type="submit"]:hover {
 	  height: 26px;
 	}
 	div#banner-top h1 span.right-icon {
+
 	  width: 42px;
 	  background-size: 56px;
 	  height: 30px;
